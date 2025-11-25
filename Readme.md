@@ -5,17 +5,14 @@ FEATURES:
 Modern UI:
     Powered by ttkbootstrap themes (darkly, flatly)
     Animated neon particle background for a cyber look
-    Glass-style frames & polished layout
 
 Translation:
     Auto-detect source language
     Supports 100+ languages
     One-click Translate / Copy / Speak / Swap
     Shows detected language
-    Keeps last 10 translations (History)
 
 Text-to-Speech:
-    Adjustable speed & volume
     Speak translation in one click
     Stop speech anytime
 
